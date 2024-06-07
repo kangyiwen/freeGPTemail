@@ -1,3 +1,8 @@
+# Project suspended 项目已经暂停  
+This project was initiated in 2023 when GPT-4 had just been released, but it is now suspended.
+2023年GPT4刚出来的时候做的，现在已经暂停服务。
+
+
 # freeGPTemail
 Free Unlimited openAI GPT-4 Services with Instant Email Results
 
